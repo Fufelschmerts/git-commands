@@ -6,5 +6,5 @@
 
 **Пример:**
 ```bash=
-git clone https://github.com/avsudnichnikov/example
+$ git clone https://github.com/avsudnichnikov/example
 ```

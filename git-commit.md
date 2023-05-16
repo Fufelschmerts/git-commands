@@ -12,5 +12,5 @@
 
 **Пример:**
 ```bash=
-git commit -m «init»
+$ git commit -m «init»
 ```
